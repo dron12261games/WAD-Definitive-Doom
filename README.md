@@ -6,7 +6,7 @@ It's a remake/re-imagination of Ultimate Doom with the goal of fixing many of it
 
 # STATUS: 📦EARLY RELEASE
 
-### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack/releases/latest/download/DRON12261_DM_Pack_v4.wad)
+### Download - [Latest Release](https://github.com/dron12261games/WAD-Definitive-Doom/releases/download/v0.1/DEFDOOM.v0.1.zip)
 
 ## MapList:
 - `E1M10` - Lair Under Base ```🏁WORK IN PROGRESS```
