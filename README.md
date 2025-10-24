@@ -9,8 +9,8 @@ It's a remake/re-imagination of Ultimate Doom with the goal of fixing many of it
 ### Download - [Latest Release](https://github.com/dron12261games/WAD-Definitive-Doom/releases/download/v0.1/DEFDOOM.v0.1.zip)
 
 ## MapList:
-- `E1M10` - Lair Under Base ```🏁WORK IN PROGRESS```
-- `E2M10` - Tech Gone Mad ```🏁WORK IN PROGRESS```
+- `E1M10` - Lair Under Base ```✅DONE``` (map in reserve, needs a little refining)
+- `E2M10` - Tech Gone Mad ```✅DONE``` (map in reserve, needs a little refining)
 - `E3M1` - Infernal Prison ```🏁WORK IN PROGRESS```
 - `E3M9` - Awakened and Enraged ```🏁WORK IN PROGRESS```
 - `E4M1` - Above Hell ```✅DONE```
